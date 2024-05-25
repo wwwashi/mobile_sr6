@@ -11,7 +11,6 @@ software. The file is text, listing vertices and faces and is loaded
 using a class in the file objloader.py. The file simple.glsl is
 a simple vertex and fragment shader written in GLSL.
 '''
-
 from kivy.app import App
 from kivy.clock import Clock
 from kivy.core.window import Window
